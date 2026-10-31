@@ -1,0 +1,2522 @@
+[
+  {
+    "case_id": "CX-1070",
+    "product": "Credit card or prepaid card",
+    "issue": "Fees or interest",
+    "narrative": "My name is Quinn. A promotional balance transfer fee was disclosed as 3% but I was charged 5% on a $250 transfer. I have contacted support multiple times about this fees or interest issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded excess transfer fee and updated offer terms in account disclosures.",
+    "company_response": "Closed with monetary relief",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1114",
+    "product": "Debt collection",
+    "issue": "False statements or representation",
+    "narrative": "My name is Morgan. A collector is demanding $250 for an account I already paid in full on 2025-10-01. They will not send validation. I have contacted support multiple times about this false statements or representation issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Closed collection as paid/verified and sent zero-balance letter to customer and bureaus.",
+    "company_response": "Closed with explanation",
+    "state": "NY",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1097",
+    "product": "Mortgage",
+    "issue": "Trouble during payment process",
+    "narrative": "My name is Quinn. I submitted a payoff quote request and received conflicting principal balances differing by $2400. I have contacted support multiple times about this trouble during payment process issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Issued corrected payoff quote and formal balance reconciliation letter.",
+    "company_response": "Closed with explanation",
+    "state": "FL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1186",
+    "product": "Student loan",
+    "issue": "Struggling to repay your loan",
+    "narrative": "My name is Noah. I enrolled in an income-driven repayment plan but my bill still shows the standard payment of $1250. I have contacted support multiple times about this struggling to repay your loan issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Corrected IDR billing amount and issued payment history adjustment letter.",
+    "company_response": "Closed with explanation",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1058",
+    "product": "Credit card or prepaid card",
+    "issue": "Fees or interest",
+    "narrative": "My name is Omar. I was promised 0% APR for 15 months but interest of $45 was assessed in month two. I have contacted support multiple times about this fees or interest issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reversed improperly assessed interest and corrected APR promotional coding.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "WA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1001",
+    "product": "Checking or savings account",
+    "issue": "Managing an account",
+    "narrative": "My name is Quinn. I deposited a paycheck of $75 on 2025-12-09 but the funds still show as pending and I was charged overdraft fees. I have contacted support multiple times about this managing an account issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded incorrect overdraft fees and restored provisional credit while investigation completed.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NY",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1240",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Unable to get your credit report or credit score",
+    "narrative": "My name is Morgan. A collection account for $1250 appears twice under two different creditor names for the same original debt. I have contacted support multiple times about this unable to get your credit report or credit score issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Merged duplicate collection tradelines and issued updated report confirmation.",
+    "company_response": "In progress",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1209",
+    "product": "Student loan",
+    "issue": "Dealing with your lender or servicer",
+    "narrative": "My name is Quinn. Consolidation paperwork was lost and I was asked to re-send the same tax forms multiple times. I have contacted support multiple times about this dealing with your lender or servicer issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Completed consolidation with dedicated processor and confirmed new loan IDs.",
+    "company_response": "In progress",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1157",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Fraud or scam",
+    "narrative": "My name is Noah. I was scammed into authorizing a $480 transfer. I reported it immediately and need the investigation status. I have contacted support multiple times about this fraud or scam issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Opened fraud case, froze related rails, and issued interim investigation update.",
+    "company_response": "Closed with explanation",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1235",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Improper use of your report",
+    "narrative": "My name is Drew. A collection account for $45 appears twice under two different creditor names for the same original debt. I have contacted support multiple times about this improper use of your report issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Merged duplicate collection tradelines and issued updated report confirmation.",
+    "company_response": "Closed with monetary relief",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1139",
+    "product": "Debt collection",
+    "issue": "Communication tactics",
+    "narrative": "My name is Omar. A collector is demanding $45 for an account I already paid in full on 2025-05-22. They will not send validation. I have contacted support multiple times about this communication tactics issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Closed collection as paid/verified and sent zero-balance letter to customer and bureaus.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1055",
+    "product": "Credit card or prepaid card",
+    "issue": "Trouble using your card",
+    "narrative": "My name is Omar. A promotional balance transfer fee was disclosed as 3% but I was charged 5% on a $5600 transfer. I have contacted support multiple times about this trouble using your card issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded excess transfer fee and updated offer terms in account disclosures.",
+    "company_response": "Closed with monetary relief",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1112",
+    "product": "Debt collection",
+    "issue": "Took or threatened to take negative or legal action",
+    "narrative": "My name is Morgan. Despite a written cease-communication request, I continue to get daily calls about $2400. I have contacted support multiple times about this took or threatened to take negative or legal action issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Honored cease-communication request and moved correspondence to mail only.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1131",
+    "product": "Debt collection",
+    "issue": "Communication tactics",
+    "narrative": "My name is Cameron. The agency threatened wage garnishment without providing a judgment or verification letter. I have contacted support multiple times about this communication tactics issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Provided validation package and withdrew premature legal-action language.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1002",
+    "product": "Checking or savings account",
+    "issue": "Problem caused by your funds being low",
+    "narrative": "My name is Cameron. My checking account was frozen without clear notice after I reported a disputed ATM withdrawal of $75. I have contacted support multiple times about this problem caused by your funds being low issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Unfroze account after identity verification and documented hold reason in writing.",
+    "company_response": "Closed with explanation",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1170",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Money was not available when promised",
+    "narrative": "My name is Maya. I sent $750 via wire on 2025-06-05 to help a family emergency but the recipient never received funds. I have contacted support multiple times about this money was not available when promised issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Traced wire, confirmed beneficiary bank delay, and provided MT103 evidence to customer.",
+    "company_response": "Closed with explanation",
+    "state": "TX",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1102",
+    "product": "Mortgage",
+    "issue": "Struggling to pay mortgage",
+    "narrative": "My name is Chris. I submitted a payoff quote request and received conflicting principal balances differing by $480. I have contacted support multiple times about this struggling to pay mortgage issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Issued corrected payoff quote and formal balance reconciliation letter.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "CA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1038",
+    "product": "Credit card or prepaid card",
+    "issue": "Fees or interest",
+    "narrative": "My name is Luis. I was promised 0% APR for 15 months but interest of $250 was assessed in month two. I have contacted support multiple times about this fees or interest issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reversed improperly assessed interest and corrected APR promotional coding.",
+    "company_response": "Closed with explanation",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1245",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Noah. A collection account for $750 appears twice under two different creditor names for the same original debt. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Merged duplicate collection tradelines and issued updated report confirmation.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "TX",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1011",
+    "product": "Checking or savings account",
+    "issue": "Closing an account",
+    "narrative": "My name is Omar. I deposited a paycheck of $2400 on 2025-05-21 but the funds still show as pending and I was charged overdraft fees. I have contacted support multiple times about this closing an account issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Refunded incorrect overdraft fees and restored provisional credit while investigation completed.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "WA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1220",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Unable to get your credit report or credit score",
+    "narrative": "My name is Maya. A collection account for $2400 appears twice under two different creditor names for the same original debt. I have contacted support multiple times about this unable to get your credit report or credit score issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Merged duplicate collection tradelines and issued updated report confirmation.",
+    "company_response": "Closed with explanation",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1071",
+    "product": "Credit card or prepaid card",
+    "issue": "Trouble using your card",
+    "narrative": "My name is Chris. I returned merchandise on 2025-05-11 and the credit never posted, leaving me paying interest on $480. I have contacted support multiple times about this trouble using your card issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Posted pending merchant credit and waived related interest for the dispute period.",
+    "company_response": "Closed with explanation",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1106",
+    "product": "Mortgage",
+    "issue": "Struggling to pay mortgage",
+    "narrative": "My name is Avery. Refinance closing was delayed because the lender requested the same appraisal documents three times. I have contacted support multiple times about this struggling to pay mortgage issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Assigned dedicated closer, validated document checklist, and rescheduled closing.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1214",
+    "product": "Student loan",
+    "issue": "Struggling to repay your loan",
+    "narrative": "My name is Noah. Consolidation paperwork was lost and I was asked to re-send the same tax forms multiple times. I have contacted support multiple times about this struggling to repay your loan issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Completed consolidation with dedicated processor and confirmed new loan IDs.",
+    "company_response": "Closed with monetary relief",
+    "state": "CA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1232",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Unable to get your credit report or credit score",
+    "narrative": "My name is Casey. My credit report still shows a charged-off card that was included in bankruptcy discharged on 2025-07-20. I have contacted support multiple times about this unable to get your credit report or credit score issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Updated tradeline to reflect discharge and confirmed bureau suppression of balance.",
+    "company_response": "Closed with monetary relief",
+    "state": "WA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1172",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Wrong amount charged or received",
+    "narrative": "My name is Taylor. I was scammed into authorizing a $5600 transfer. I reported it immediately and need the investigation status. I have contacted support multiple times about this wrong amount charged or received issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Opened fraud case, froze related rails, and issued interim investigation update.",
+    "company_response": "In progress",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1060",
+    "product": "Credit card or prepaid card",
+    "issue": "Advertising and marketing, including promotional offers",
+    "narrative": "My name is Jamie. A promotional balance transfer fee was disclosed as 3% but I was charged 5% on a $1250 transfer. I have contacted support multiple times about this advertising and marketing, including promotional offers issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Refunded excess transfer fee and updated offer terms in account disclosures.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "FL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1109",
+    "product": "Debt collection",
+    "issue": "Attempts to collect debt not owed",
+    "narrative": "My name is Noah. A collector is demanding $480 for an account I already paid in full on 2025-12-28. They will not send validation. I have contacted support multiple times about this attempts to collect debt not owed issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Closed collection as paid/verified and sent zero-balance letter to customer and bureaus.",
+    "company_response": "Closed with explanation",
+    "state": "FL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1085",
+    "product": "Mortgage",
+    "issue": "Trouble during payment process",
+    "narrative": "My name is Sam. Escrow analysis increased my payment by $1250 without explaining tax or insurance changes. I have contacted support multiple times about this trouble during payment process issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Provided escrow analysis worksheet and adjusted payment after corrected tax data.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1238",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Problem with a credit reporting company's investigation",
+    "narrative": "My name is Sam. I disputed an inquiry I did not authorize and the bureau responded without contacting the furnisher properly. I have contacted support multiple times about this problem with a credit reporting company's investigation issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reopened dispute, re-verified with furnisher, and provided method-of-verification details.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "WA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1100",
+    "product": "Mortgage",
+    "issue": "Closing on a mortgage",
+    "narrative": "My name is Omar. Escrow analysis increased my payment by $120 without explaining tax or insurance changes. I have contacted support multiple times about this closing on a mortgage issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Provided escrow analysis worksheet and adjusted payment after corrected tax data.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "IL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1185",
+    "product": "Student loan",
+    "issue": "Dealing with your lender or servicer",
+    "narrative": "My name is Omar. Employer certification for public service loan forgiveness has been pending far beyond the stated timeline. I have contacted support multiple times about this dealing with your lender or servicer issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Expedited PSLF employer certification review and provided case reference number.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "WA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1017",
+    "product": "Checking or savings account",
+    "issue": "Managing an account",
+    "narrative": "My name is Alex. My checking account was frozen without clear notice after I reported a disputed ATM withdrawal of $2400. I have contacted support multiple times about this managing an account issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Unfroze account after identity verification and documented hold reason in writing.",
+    "company_response": "Closed with explanation",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1023",
+    "product": "Checking or savings account",
+    "issue": "Closing an account",
+    "narrative": "My name is Priya. The bank closed my savings account ending in 9007 and mailed a check weeks late, causing bill payment failures. I have contacted support multiple times about this closing an account issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reissued closing balance check via expedited mail and waived related service fees.",
+    "company_response": "In progress",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1136",
+    "product": "Debt collection",
+    "issue": "Took or threatened to take negative or legal action",
+    "narrative": "My name is Priya. The agency threatened wage garnishment without providing a judgment or verification letter. I have contacted support multiple times about this took or threatened to take negative or legal action issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Provided validation package and withdrew premature legal-action language.",
+    "company_response": "In progress",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1151",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Other transaction problem",
+    "narrative": "My name is Sam. A peer-to-peer transfer of $5600 was marked complete then reversed 48 hours later without explanation. I have contacted support multiple times about this other transaction problem issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Restored transfer after ledger reconciliation and clarified reversal reason in writing.",
+    "company_response": "In progress",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1080",
+    "product": "Mortgage",
+    "issue": "Closing on a mortgage",
+    "narrative": "My name is Sam. Escrow analysis increased my payment by $480 without explaining tax or insurance changes. I have contacted support multiple times about this closing on a mortgage issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Provided escrow analysis worksheet and adjusted payment after corrected tax data.",
+    "company_response": "In progress",
+    "state": "CA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1146",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Money was not available when promised",
+    "narrative": "My name is Omar. A peer-to-peer transfer of $1250 was marked complete then reversed 48 hours later without explanation. I have contacted support multiple times about this money was not available when promised issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Restored transfer after ledger reconciliation and clarified reversal reason in writing.",
+    "company_response": "Closed with monetary relief",
+    "state": "IL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1213",
+    "product": "Student loan",
+    "issue": "Dealing with your lender or servicer",
+    "narrative": "My name is Casey. My servicer reports my student loan as delinquent even though payments posted on time. I have contacted support multiple times about this dealing with your lender or servicer issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Furnished corrected payment history to credit bureaus and confirmed tradeline update.",
+    "company_response": "Closed with monetary relief",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1098",
+    "product": "Mortgage",
+    "issue": "Struggling to pay mortgage",
+    "narrative": "My name is Avery. My mortgage payment of $75 was drafted twice in one month and customer service cannot locate the second payment. I have contacted support multiple times about this struggling to pay mortgage issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reversed duplicate draft, refunded fees, and confirmed correct loan ledger balance.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1181",
+    "product": "Student loan",
+    "issue": "Dealing with your lender or servicer",
+    "narrative": "My name is Cameron. I enrolled in an income-driven repayment plan but my bill still shows the standard payment of $1250. I have contacted support multiple times about this dealing with your lender or servicer issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Corrected IDR billing amount and issued payment history adjustment letter.",
+    "company_response": "Closed with monetary relief",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1216",
+    "product": "Student loan",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Chris. I enrolled in an income-driven repayment plan but my bill still shows the standard payment of $250. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Corrected IDR billing amount and issued payment history adjustment letter.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1142",
+    "product": "Debt collection",
+    "issue": "False statements or representation",
+    "narrative": "My name is Drew. Despite a written cease-communication request, I continue to get daily calls about $480. I have contacted support multiple times about this false statements or representation issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Honored cease-communication request and moved correspondence to mail only.",
+    "company_response": "Closed with monetary relief",
+    "state": "CA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1036",
+    "product": "Checking or savings account",
+    "issue": "Unauthorized transactions",
+    "narrative": "My name is Priya. I deposited a paycheck of $45 on 2025-08-17 but the funds still show as pending and I was charged overdraft fees. I have contacted support multiple times about this unauthorized transactions issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Refunded incorrect overdraft fees and restored provisional credit while investigation completed.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "CA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1057",
+    "product": "Credit card or prepaid card",
+    "issue": "Problem with a purchase shown on your statement",
+    "narrative": "My name is Taylor. A merchant charge of $750 appears twice on my credit card ending in 7149. The merchant says they only billed once. I have contacted support multiple times about this problem with a purchase shown on your statement issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Removed duplicate merchant charge and issued billing correction letter.",
+    "company_response": "In progress",
+    "state": "FL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1152",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Wrong amount charged or received",
+    "narrative": "My name is Jordan. I was scammed into authorizing a $1250 transfer. I reported it immediately and need the investigation status. I have contacted support multiple times about this wrong amount charged or received issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Opened fraud case, froze related rails, and issued interim investigation update.",
+    "company_response": "Closed with monetary relief",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1009",
+    "product": "Checking or savings account",
+    "issue": "Managing an account",
+    "narrative": "My name is Pat. Unauthorized ACH debits totaling $1250 posted to my account. I disputed them but the provisional credit was reversed. I have contacted support multiple times about this managing an account issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Completed Reg E investigation, permanently credited validated unauthorized transactions.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "WA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1046",
+    "product": "Credit card or prepaid card",
+    "issue": "Fees or interest",
+    "narrative": "My name is Alex. I returned merchandise on 2025-05-02 and the credit never posted, leaving me paying interest on $75. I have contacted support multiple times about this fees or interest issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Posted pending merchant credit and waived related interest for the dispute period.",
+    "company_response": "Closed with monetary relief",
+    "state": "NY",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1248",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Unable to get your credit report or credit score",
+    "narrative": "My name is Omar. I disputed an inquiry I did not authorize and the bureau responded without contacting the furnisher properly. I have contacted support multiple times about this unable to get your credit report or credit score issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reopened dispute, re-verified with furnisher, and provided method-of-verification details.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NY",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1047",
+    "product": "Credit card or prepaid card",
+    "issue": "Trouble using your card",
+    "narrative": "My name is Omar. A merchant charge of $480 appears twice on my credit card ending in 2647. The merchant says they only billed once. I have contacted support multiple times about this trouble using your card issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Removed duplicate merchant charge and issued billing correction letter.",
+    "company_response": "In progress",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1206",
+    "product": "Student loan",
+    "issue": "Struggling to repay your loan",
+    "narrative": "My name is Riley. I enrolled in an income-driven repayment plan but my bill still shows the standard payment of $750. I have contacted support multiple times about this struggling to repay your loan issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Corrected IDR billing amount and issued payment history adjustment letter.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1135",
+    "product": "Debt collection",
+    "issue": "Communication tactics",
+    "narrative": "My name is Chris. I received calls before 8am about a debt that does not match my credit report and may belong to someone else. I have contacted support multiple times about this communication tactics issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Stopped outreach pending validation and corrected identity mismatch documentation.",
+    "company_response": "Closed with explanation",
+    "state": "IL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1083",
+    "product": "Mortgage",
+    "issue": "Applying for a mortgage or refinancing an existing mortgage",
+    "narrative": "My name is Morgan. My mortgage payment of $75 was drafted twice in one month and customer service cannot locate the second payment. I have contacted support multiple times about this applying for a mortgage or refinancing an existing mortgage issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reversed duplicate draft, refunded fees, and confirmed correct loan ledger balance.",
+    "company_response": "Closed with monetary relief",
+    "state": "NY",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1143",
+    "product": "Debt collection",
+    "issue": "Communication tactics",
+    "narrative": "My name is Jamie. They reported a collection to the bureaus while an active dispute for identity theft is open. I have contacted support multiple times about this communication tactics issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Suppressed bureau reporting until dispute investigation completed.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "WA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1134",
+    "product": "Debt collection",
+    "issue": "False statements or representation",
+    "narrative": "My name is Cameron. A collector is demanding $480 for an account I already paid in full on 2025-12-03. They will not send validation. I have contacted support multiple times about this false statements or representation issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Closed collection as paid/verified and sent zero-balance letter to customer and bureaus.",
+    "company_response": "Closed with explanation",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1218",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Problem with a credit reporting company's investigation",
+    "narrative": "My name is Avery. I disputed an inquiry I did not authorize and the bureau responded without contacting the furnisher properly. I have contacted support multiple times about this problem with a credit reporting company's investigation issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reopened dispute, re-verified with furnisher, and provided method-of-verification details.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1200",
+    "product": "Student loan",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Pat. Employer certification for public service loan forgiveness has been pending far beyond the stated timeline. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Expedited PSLF employer certification review and provided case reference number.",
+    "company_response": "Closed with monetary relief",
+    "state": "IL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1045",
+    "product": "Credit card or prepaid card",
+    "issue": "Problem with a purchase shown on your statement",
+    "narrative": "My name is Morgan. A promotional balance transfer fee was disclosed as 3% but I was charged 5% on a $250 transfer. I have contacted support multiple times about this problem with a purchase shown on your statement issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Refunded excess transfer fee and updated offer terms in account disclosures.",
+    "company_response": "In progress",
+    "state": "IL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1137",
+    "product": "Debt collection",
+    "issue": "Attempts to collect debt not owed",
+    "narrative": "My name is Drew. Despite a written cease-communication request, I continue to get daily calls about $120. I have contacted support multiple times about this attempts to collect debt not owed issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Honored cease-communication request and moved correspondence to mail only.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1010",
+    "product": "Checking or savings account",
+    "issue": "Problem caused by your funds being low",
+    "narrative": "My name is Sam. I requested account statements for the last 12 months and only received incomplete PDF files missing several months. I have contacted support multiple times about this problem caused by your funds being low issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Provided complete statement package and confirmed delivery through secure inbox.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "FL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1027",
+    "product": "Checking or savings account",
+    "issue": "Closing an account",
+    "narrative": "My name is Avery. My checking account was frozen without clear notice after I reported a disputed ATM withdrawal of $250. I have contacted support multiple times about this closing an account issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Unfroze account after identity verification and documented hold reason in writing.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1105",
+    "product": "Mortgage",
+    "issue": "Trouble during payment process",
+    "narrative": "My name is Noah. Escrow analysis increased my payment by $250 without explaining tax or insurance changes. I have contacted support multiple times about this trouble during payment process issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Provided escrow analysis worksheet and adjusted payment after corrected tax data.",
+    "company_response": "Closed with monetary relief",
+    "state": "GA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1029",
+    "product": "Checking or savings account",
+    "issue": "Managing an account",
+    "narrative": "My name is Taylor. Unauthorized ACH debits totaling $1250 posted to my account. I disputed them but the provisional credit was reversed. I have contacted support multiple times about this managing an account issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Completed Reg E investigation, permanently credited validated unauthorized transactions.",
+    "company_response": "Closed with explanation",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1090",
+    "product": "Mortgage",
+    "issue": "Struggling to pay mortgage",
+    "narrative": "My name is Sam. Escrow analysis increased my payment by $480 without explaining tax or insurance changes. I have contacted support multiple times about this struggling to pay mortgage issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Provided escrow analysis worksheet and adjusted payment after corrected tax data.",
+    "company_response": "Closed with monetary relief",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1133",
+    "product": "Debt collection",
+    "issue": "Attempts to collect debt not owed",
+    "narrative": "My name is Maya. They reported a collection to the bureaus while an active dispute for identity theft is open. I have contacted support multiple times about this attempts to collect debt not owed issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Suppressed bureau reporting until dispute investigation completed.",
+    "company_response": "Closed with explanation",
+    "state": "TX",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1086",
+    "product": "Mortgage",
+    "issue": "Struggling to pay mortgage",
+    "narrative": "My name is Elena. Refinance closing was delayed because the lender requested the same appraisal documents three times. I have contacted support multiple times about this struggling to pay mortgage issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Assigned dedicated closer, validated document checklist, and rescheduled closing.",
+    "company_response": "Closed with explanation",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1175",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Other transaction problem",
+    "narrative": "My name is Morgan. I sent $5600 via wire on 2025-02-25 to help a family emergency but the recipient never received funds. I have contacted support multiple times about this other transaction problem issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Traced wire, confirmed beneficiary bank delay, and provided MT103 evidence to customer.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1203",
+    "product": "Student loan",
+    "issue": "Problem with a credit report or credit score",
+    "narrative": "My name is Pat. My servicer reports my student loan as delinquent even though payments posted on time. I have contacted support multiple times about this problem with a credit report or credit score issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Furnished corrected payment history to credit bureaus and confirmed tradeline update.",
+    "company_response": "Closed with monetary relief",
+    "state": "GA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1234",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Problem with a credit reporting company's investigation",
+    "narrative": "My name is Pat. Personal information on my report lists an old address and an employer I never worked for. I have contacted support multiple times about this problem with a credit reporting company's investigation issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Corrected consumer informational fields after documentary proof review.",
+    "company_response": "In progress",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1179",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Other transaction problem",
+    "narrative": "My name is Jamie. Cash pickup reference for $2400 expired after the app showed successful funding. I have contacted support multiple times about this other transaction problem issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reissued pickup instructions and extended reference validity after confirming funds.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1239",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Improper use of your report",
+    "narrative": "My name is Alex. Personal information on my report lists an old address and an employer I never worked for. I have contacted support multiple times about this improper use of your report issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Corrected consumer informational fields after documentary proof review.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1022",
+    "product": "Checking or savings account",
+    "issue": "Problem caused by your funds being low",
+    "narrative": "My name is Sam. My checking account was frozen without clear notice after I reported a disputed ATM withdrawal of $75. I have contacted support multiple times about this problem caused by your funds being low issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Unfroze account after identity verification and documented hold reason in writing.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NY",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1166",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Money was not available when promised",
+    "narrative": "My name is Luis. A peer-to-peer transfer of $120 was marked complete then reversed 48 hours later without explanation. I have contacted support multiple times about this money was not available when promised issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Restored transfer after ledger reconciliation and clarified reversal reason in writing.",
+    "company_response": "Closed with monetary relief",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1007",
+    "product": "Checking or savings account",
+    "issue": "Closing an account",
+    "narrative": "My name is Jamie. My checking account was frozen without clear notice after I reported a disputed ATM withdrawal of $75. I have contacted support multiple times about this closing an account issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Unfroze account after identity verification and documented hold reason in writing.",
+    "company_response": "Closed with monetary relief",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1030",
+    "product": "Checking or savings account",
+    "issue": "Problem caused by your funds being low",
+    "narrative": "My name is Avery. I requested account statements for the last 12 months and only received incomplete PDF files missing several months. I have contacted support multiple times about this problem caused by your funds being low issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Provided complete statement package and confirmed delivery through secure inbox.",
+    "company_response": "In progress",
+    "state": "NY",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1141",
+    "product": "Debt collection",
+    "issue": "Attempts to collect debt not owed",
+    "narrative": "My name is Quinn. The agency threatened wage garnishment without providing a judgment or verification letter. I have contacted support multiple times about this attempts to collect debt not owed issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Provided validation package and withdrew premature legal-action language.",
+    "company_response": "In progress",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1182",
+    "product": "Student loan",
+    "issue": "Struggling to repay your loan",
+    "narrative": "My name is Jamie. Forbearance request submitted on 2025-07-04 was acknowledged then payments were still auto-debited. I have contacted support multiple times about this struggling to repay your loan issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Refunded auto-debit collected during approved forbearance and updated status.",
+    "company_response": "In progress",
+    "state": "IL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1204",
+    "product": "Student loan",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Chris. Consolidation paperwork was lost and I was asked to re-send the same tax forms multiple times. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Completed consolidation with dedicated processor and confirmed new loan IDs.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1129",
+    "product": "Debt collection",
+    "issue": "Attempts to collect debt not owed",
+    "narrative": "My name is Riley. A collector is demanding $2400 for an account I already paid in full on 2025-07-22. They will not send validation. I have contacted support multiple times about this attempts to collect debt not owed issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Closed collection as paid/verified and sent zero-balance letter to customer and bureaus.",
+    "company_response": "In progress",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1224",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Unable to get your credit report or credit score",
+    "narrative": "My name is Alex. Personal information on my report lists an old address and an employer I never worked for. I have contacted support multiple times about this unable to get your credit report or credit score issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Corrected consumer informational fields after documentary proof review.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1004",
+    "product": "Checking or savings account",
+    "issue": "Unauthorized transactions",
+    "narrative": "My name is Alex. Unauthorized ACH debits totaling $2400 posted to my account. I disputed them but the provisional credit was reversed. I have contacted support multiple times about this unauthorized transactions issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Completed Reg E investigation, permanently credited validated unauthorized transactions.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1180",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Wrong amount charged or received",
+    "narrative": "My name is Sam. I sent $120 via wire on 2025-10-02 to help a family emergency but the recipient never received funds. I have contacted support multiple times about this wrong amount charged or received issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Traced wire, confirmed beneficiary bank delay, and provided MT103 evidence to customer.",
+    "company_response": "Closed with monetary relief",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1040",
+    "product": "Credit card or prepaid card",
+    "issue": "Advertising and marketing, including promotional offers",
+    "narrative": "My name is Sam. A promotional balance transfer fee was disclosed as 3% but I was charged 5% on a $120 transfer. I have contacted support multiple times about this advertising and marketing, including promotional offers issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded excess transfer fee and updated offer terms in account disclosures.",
+    "company_response": "Closed with explanation",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1227",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Improper use of your report",
+    "narrative": "My name is Avery. My credit report still shows a charged-off card that was included in bankruptcy discharged on 2025-01-10. I have contacted support multiple times about this improper use of your report issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Updated tradeline to reflect discharge and confirmed bureau suppression of balance.",
+    "company_response": "Closed with explanation",
+    "state": "FL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1244",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Unable to get your credit report or credit score",
+    "narrative": "My name is Riley. Personal information on my report lists an old address and an employer I never worked for. I have contacted support multiple times about this unable to get your credit report or credit score issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Corrected consumer informational fields after documentary proof review.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1015",
+    "product": "Checking or savings account",
+    "issue": "Closing an account",
+    "narrative": "My name is Priya. I requested account statements for the last 12 months and only received incomplete PDF files missing several months. I have contacted support multiple times about this closing an account issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Provided complete statement package and confirmed delivery through secure inbox.",
+    "company_response": "In progress",
+    "state": "TX",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1155",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Other transaction problem",
+    "narrative": "My name is Pat. I sent $1250 via wire on 2025-01-23 to help a family emergency but the recipient never received funds. I have contacted support multiple times about this other transaction problem issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Traced wire, confirmed beneficiary bank delay, and provided MT103 evidence to customer.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1223",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Improper use of your report",
+    "narrative": "My name is Alex. I disputed an inquiry I did not authorize and the bureau responded without contacting the furnisher properly. I have contacted support multiple times about this improper use of your report issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reopened dispute, re-verified with furnisher, and provided method-of-verification details.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1048",
+    "product": "Credit card or prepaid card",
+    "issue": "Advertising and marketing, including promotional offers",
+    "narrative": "My name is Pat. I was promised 0% APR for 15 months but interest of $75 was assessed in month two. I have contacted support multiple times about this advertising and marketing, including promotional offers issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reversed improperly assessed interest and corrected APR promotional coding.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1154",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Money was not available when promised",
+    "narrative": "My name is Riley. Cash pickup reference for $5600 expired after the app showed successful funding. I have contacted support multiple times about this money was not available when promised issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reissued pickup instructions and extended reference validity after confirming funds.",
+    "company_response": "In progress",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1115",
+    "product": "Debt collection",
+    "issue": "Communication tactics",
+    "narrative": "My name is Elena. I received calls before 8am about a debt that does not match my credit report and may belong to someone else. I have contacted support multiple times about this communication tactics issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Stopped outreach pending validation and corrected identity mismatch documentation.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1226",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Problem with a credit reporting company's investigation",
+    "narrative": "My name is Noah. I cannot generate my free annual report online after repeated identity verification failures. I have contacted support multiple times about this problem with a credit reporting company's investigation issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Completed manual identity verification and mailed secure report copy.",
+    "company_response": "In progress",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1160",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Wrong amount charged or received",
+    "narrative": "My name is Omar. I sent $45 via wire on 2025-03-05 to help a family emergency but the recipient never received funds. I have contacted support multiple times about this wrong amount charged or received issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Traced wire, confirmed beneficiary bank delay, and provided MT103 evidence to customer.",
+    "company_response": "Closed with monetary relief",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1163",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Other transaction problem",
+    "narrative": "My name is Taylor. Currency conversion on my international transfer used a rate that overcharged me by roughly $2400. I have contacted support multiple times about this other transaction problem issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded conversion discrepancy and documented rate source used at execution.",
+    "company_response": "In progress",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1229",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Jordan. Personal information on my report lists an old address and an employer I never worked for. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Corrected consumer informational fields after documentary proof review.",
+    "company_response": "Closed with monetary relief",
+    "state": "IL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1194",
+    "product": "Student loan",
+    "issue": "Struggling to repay your loan",
+    "narrative": "My name is Maya. Consolidation paperwork was lost and I was asked to re-send the same tax forms multiple times. I have contacted support multiple times about this struggling to repay your loan issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Completed consolidation with dedicated processor and confirmed new loan IDs.",
+    "company_response": "In progress",
+    "state": "IL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1110",
+    "product": "Debt collection",
+    "issue": "False statements or representation",
+    "narrative": "My name is Quinn. I received calls before 8am about a debt that does not match my credit report and may belong to someone else. I have contacted support multiple times about this false statements or representation issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Stopped outreach pending validation and corrected identity mismatch documentation.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "IL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1123",
+    "product": "Debt collection",
+    "issue": "Communication tactics",
+    "narrative": "My name is Priya. They reported a collection to the bureaus while an active dispute for identity theft is open. I have contacted support multiple times about this communication tactics issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Suppressed bureau reporting until dispute investigation completed.",
+    "company_response": "Closed with monetary relief",
+    "state": "GA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1044",
+    "product": "Credit card or prepaid card",
+    "issue": "Advertising and marketing, including promotional offers",
+    "narrative": "My name is Omar. My card was declined repeatedly while traveling even though my balance available was above $480. I have contacted support multiple times about this advertising and marketing, including promotional offers issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Updated travel notes, replaced card, and confirmed authorization controls with customer.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "IL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1076",
+    "product": "Mortgage",
+    "issue": "Closing on a mortgage",
+    "narrative": "My name is Drew. Refinance closing was delayed because the lender requested the same appraisal documents three times. I have contacted support multiple times about this closing on a mortgage issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Assigned dedicated closer, validated document checklist, and rescheduled closing.",
+    "company_response": "Closed with monetary relief",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1039",
+    "product": "Credit card or prepaid card",
+    "issue": "Trouble using your card",
+    "narrative": "My name is Chris. My card was declined repeatedly while traveling even though my balance available was above $5600. I have contacted support multiple times about this trouble using your card issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Updated travel notes, replaced card, and confirmed authorization controls with customer.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "IL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1202",
+    "product": "Student loan",
+    "issue": "Struggling to repay your loan",
+    "narrative": "My name is Jamie. Forbearance request submitted on 2025-11-13 was acknowledged then payments were still auto-debited. I have contacted support multiple times about this struggling to repay your loan issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded auto-debit collected during approved forbearance and updated status.",
+    "company_response": "Closed with monetary relief",
+    "state": "NY",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1217",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Riley. My credit report still shows a charged-off card that was included in bankruptcy discharged on 2025-12-27. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Updated tradeline to reflect discharge and confirmed bureau suppression of balance.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1051",
+    "product": "Credit card or prepaid card",
+    "issue": "Trouble using your card",
+    "narrative": "My name is Casey. I returned merchandise on 2025-07-01 and the credit never posted, leaving me paying interest on $120. I have contacted support multiple times about this trouble using your card issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Posted pending merchant credit and waived related interest for the dispute period.",
+    "company_response": "Closed with monetary relief",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1252",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Unable to get your credit report or credit score",
+    "narrative": "My name is Luis. My credit report still shows a charged-off card that was included in bankruptcy discharged on 2025-11-20. I have contacted support multiple times about this unable to get your credit report or credit score issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Updated tradeline to reflect discharge and confirmed bureau suppression of balance.",
+    "company_response": "Closed with monetary relief",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1178",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Money was not available when promised",
+    "narrative": "My name is Priya. Currency conversion on my international transfer used a rate that overcharged me by roughly $120. I have contacted support multiple times about this money was not available when promised issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded conversion discrepancy and documented rate source used at execution.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1173",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Fraud or scam",
+    "narrative": "My name is Jamie. Currency conversion on my international transfer used a rate that overcharged me by roughly $1250. I have contacted support multiple times about this fraud or scam issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Refunded conversion discrepancy and documented rate source used at execution.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1042",
+    "product": "Credit card or prepaid card",
+    "issue": "Fees or interest",
+    "narrative": "My name is Casey. A merchant charge of $75 appears twice on my credit card ending in 4002. The merchant says they only billed once. I have contacted support multiple times about this fees or interest issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Removed duplicate merchant charge and issued billing correction letter.",
+    "company_response": "In progress",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1215",
+    "product": "Student loan",
+    "issue": "Problem with a credit report or credit score",
+    "narrative": "My name is Quinn. Employer certification for public service loan forgiveness has been pending far beyond the stated timeline. I have contacted support multiple times about this problem with a credit report or credit score issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Expedited PSLF employer certification review and provided case reference number.",
+    "company_response": "In progress",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1125",
+    "product": "Debt collection",
+    "issue": "Attempts to collect debt not owed",
+    "narrative": "My name is Cameron. I received calls before 8am about a debt that does not match my credit report and may belong to someone else. I have contacted support multiple times about this attempts to collect debt not owed issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Stopped outreach pending validation and corrected identity mismatch documentation.",
+    "company_response": "Closed with monetary relief",
+    "state": "IL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1126",
+    "product": "Debt collection",
+    "issue": "False statements or representation",
+    "narrative": "My name is Maya. The agency threatened wage garnishment without providing a judgment or verification letter. I have contacted support multiple times about this false statements or representation issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Provided validation package and withdrew premature legal-action language.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1020",
+    "product": "Checking or savings account",
+    "issue": "Unauthorized transactions",
+    "narrative": "My name is Priya. I requested account statements for the last 12 months and only received incomplete PDF files missing several months. I have contacted support multiple times about this unauthorized transactions issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Provided complete statement package and confirmed delivery through secure inbox.",
+    "company_response": "Closed with explanation",
+    "state": "WA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1059",
+    "product": "Credit card or prepaid card",
+    "issue": "Trouble using your card",
+    "narrative": "My name is Taylor. My card was declined repeatedly while traveling even though my balance available was above $75. I have contacted support multiple times about this trouble using your card issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Updated travel notes, replaced card, and confirmed authorization controls with customer.",
+    "company_response": "Closed with monetary relief",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1067",
+    "product": "Credit card or prepaid card",
+    "issue": "Trouble using your card",
+    "narrative": "My name is Priya. A merchant charge of $1250 appears twice on my credit card ending in 3585. The merchant says they only billed once. I have contacted support multiple times about this trouble using your card issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Removed duplicate merchant charge and issued billing correction letter.",
+    "company_response": "In progress",
+    "state": "CA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1061",
+    "product": "Credit card or prepaid card",
+    "issue": "Problem with a purchase shown on your statement",
+    "narrative": "My name is Jamie. I returned merchandise on 2025-10-19 and the credit never posted, leaving me paying interest on $1250. I have contacted support multiple times about this problem with a purchase shown on your statement issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Posted pending merchant credit and waived related interest for the dispute period.",
+    "company_response": "In progress",
+    "state": "CA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1145",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Fraud or scam",
+    "narrative": "My name is Riley. I sent $2400 via wire on 2025-10-12 to help a family emergency but the recipient never received funds. I have contacted support multiple times about this fraud or scam issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Traced wire, confirmed beneficiary bank delay, and provided MT103 evidence to customer.",
+    "company_response": "Closed with explanation",
+    "state": "IL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1043",
+    "product": "Credit card or prepaid card",
+    "issue": "Trouble using your card",
+    "narrative": "My name is Omar. I was promised 0% APR for 15 months but interest of $5600 was assessed in month two. I have contacted support multiple times about this trouble using your card issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reversed improperly assessed interest and corrected APR promotional coding.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1092",
+    "product": "Mortgage",
+    "issue": "Closing on a mortgage",
+    "narrative": "My name is Pat. I submitted a payoff quote request and received conflicting principal balances differing by $750. I have contacted support multiple times about this closing on a mortgage issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Issued corrected payoff quote and formal balance reconciliation letter.",
+    "company_response": "Closed with monetary relief",
+    "state": "WA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1018",
+    "product": "Checking or savings account",
+    "issue": "Problem caused by your funds being low",
+    "narrative": "My name is Casey. The bank closed my savings account ending in 1827 and mailed a check weeks late, causing bill payment failures. I have contacted support multiple times about this problem caused by your funds being low issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reissued closing balance check via expedited mail and waived related service fees.",
+    "company_response": "In progress",
+    "state": "CA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1005",
+    "product": "Checking or savings account",
+    "issue": "Managing an account",
+    "narrative": "My name is Chris. I requested account statements for the last 12 months and only received incomplete PDF files missing several months. I have contacted support multiple times about this managing an account issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Provided complete statement package and confirmed delivery through secure inbox.",
+    "company_response": "Closed with explanation",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1122",
+    "product": "Debt collection",
+    "issue": "False statements or representation",
+    "narrative": "My name is Taylor. Despite a written cease-communication request, I continue to get daily calls about $1250. I have contacted support multiple times about this false statements or representation issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Honored cease-communication request and moved correspondence to mail only.",
+    "company_response": "In progress",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1171",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Other transaction problem",
+    "narrative": "My name is Pat. A peer-to-peer transfer of $75 was marked complete then reversed 48 hours later without explanation. I have contacted support multiple times about this other transaction problem issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Restored transfer after ledger reconciliation and clarified reversal reason in writing.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "CA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1065",
+    "product": "Credit card or prepaid card",
+    "issue": "Problem with a purchase shown on your statement",
+    "narrative": "My name is Luis. A promotional balance transfer fee was disclosed as 3% but I was charged 5% on a $45 transfer. I have contacted support multiple times about this problem with a purchase shown on your statement issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Refunded excess transfer fee and updated offer terms in account disclosures.",
+    "company_response": "Closed with explanation",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1052",
+    "product": "Credit card or prepaid card",
+    "issue": "Advertising and marketing, including promotional offers",
+    "narrative": "My name is Taylor. A merchant charge of $250 appears twice on my credit card ending in 4371. The merchant says they only billed once. I have contacted support multiple times about this advertising and marketing, including promotional offers issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Removed duplicate merchant charge and issued billing correction letter.",
+    "company_response": "In progress",
+    "state": "CA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1066",
+    "product": "Credit card or prepaid card",
+    "issue": "Fees or interest",
+    "narrative": "My name is Quinn. I returned merchandise on 2025-08-13 and the credit never posted, leaving me paying interest on $250. I have contacted support multiple times about this fees or interest issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Posted pending merchant credit and waived related interest for the dispute period.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1231",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Improper use of your report",
+    "narrative": "My name is Priya. I cannot generate my free annual report online after repeated identity verification failures. I have contacted support multiple times about this improper use of your report issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Completed manual identity verification and mailed secure report copy.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1026",
+    "product": "Checking or savings account",
+    "issue": "Problem caused by your funds being low",
+    "narrative": "My name is Jordan. I deposited a paycheck of $75 on 2025-04-03 but the funds still show as pending and I was charged overdraft fees. I have contacted support multiple times about this problem caused by your funds being low issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Refunded incorrect overdraft fees and restored provisional credit while investigation completed.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1191",
+    "product": "Student loan",
+    "issue": "Problem with a credit report or credit score",
+    "narrative": "My name is Riley. I enrolled in an income-driven repayment plan but my bill still shows the standard payment of $5600. I have contacted support multiple times about this problem with a credit report or credit score issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Corrected IDR billing amount and issued payment history adjustment letter.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "TX",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1242",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Problem with a credit reporting company's investigation",
+    "narrative": "My name is Chris. My credit report still shows a charged-off card that was included in bankruptcy discharged on 2025-11-28. I have contacted support multiple times about this problem with a credit reporting company's investigation issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Updated tradeline to reflect discharge and confirmed bureau suppression of balance.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1087",
+    "product": "Mortgage",
+    "issue": "Applying for a mortgage or refinancing an existing mortgage",
+    "narrative": "My name is Chris. I submitted a payoff quote request and received conflicting principal balances differing by $1250. I have contacted support multiple times about this applying for a mortgage or refinancing an existing mortgage issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Issued corrected payoff quote and formal balance reconciliation letter.",
+    "company_response": "Closed with explanation",
+    "state": "GA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1096",
+    "product": "Mortgage",
+    "issue": "Closing on a mortgage",
+    "narrative": "My name is Pat. Refinance closing was delayed because the lender requested the same appraisal documents three times. I have contacted support multiple times about this closing on a mortgage issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Assigned dedicated closer, validated document checklist, and rescheduled closing.",
+    "company_response": "In progress",
+    "state": "WA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1169",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Fraud or scam",
+    "narrative": "My name is Cameron. Cash pickup reference for $1250 expired after the app showed successful funding. I have contacted support multiple times about this fraud or scam issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reissued pickup instructions and extended reference validity after confirming funds.",
+    "company_response": "Closed with explanation",
+    "state": "WA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1190",
+    "product": "Student loan",
+    "issue": "Struggling to repay your loan",
+    "narrative": "My name is Casey. Employer certification for public service loan forgiveness has been pending far beyond the stated timeline. I have contacted support multiple times about this struggling to repay your loan issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Expedited PSLF employer certification review and provided case reference number.",
+    "company_response": "Closed with explanation",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1033",
+    "product": "Checking or savings account",
+    "issue": "Managing an account",
+    "narrative": "My name is Casey. The bank closed my savings account ending in 3502 and mailed a check weeks late, causing bill payment failures. I have contacted support multiple times about this managing an account issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reissued closing balance check via expedited mail and waived related service fees.",
+    "company_response": "In progress",
+    "state": "CA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1031",
+    "product": "Checking or savings account",
+    "issue": "Closing an account",
+    "narrative": "My name is Sam. I deposited a paycheck of $120 on 2025-08-08 but the funds still show as pending and I was charged overdraft fees. I have contacted support multiple times about this closing an account issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded incorrect overdraft fees and restored provisional credit while investigation completed.",
+    "company_response": "In progress",
+    "state": "TX",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1072",
+    "product": "Credit card or prepaid card",
+    "issue": "Advertising and marketing, including promotional offers",
+    "narrative": "My name is Avery. A merchant charge of $250 appears twice on my credit card ending in 6275. The merchant says they only billed once. I have contacted support multiple times about this advertising and marketing, including promotional offers issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Removed duplicate merchant charge and issued billing correction letter.",
+    "company_response": "Closed with explanation",
+    "state": "GA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1193",
+    "product": "Student loan",
+    "issue": "Dealing with your lender or servicer",
+    "narrative": "My name is Elena. My servicer reports my student loan as delinquent even though payments posted on time. I have contacted support multiple times about this dealing with your lender or servicer issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Furnished corrected payment history to credit bureaus and confirmed tradeline update.",
+    "company_response": "In progress",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1168",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Wrong amount charged or received",
+    "narrative": "My name is Avery. Currency conversion on my international transfer used a rate that overcharged me by roughly $75. I have contacted support multiple times about this wrong amount charged or received issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Refunded conversion discrepancy and documented rate source used at execution.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1187",
+    "product": "Student loan",
+    "issue": "Problem with a credit report or credit score",
+    "narrative": "My name is Cameron. Forbearance request submitted on 2025-07-23 was acknowledged then payments were still auto-debited. I have contacted support multiple times about this problem with a credit report or credit score issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded auto-debit collected during approved forbearance and updated status.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1222",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Problem with a credit reporting company's investigation",
+    "narrative": "My name is Sam. My credit report still shows a charged-off card that was included in bankruptcy discharged on 2025-11-22. I have contacted support multiple times about this problem with a credit reporting company's investigation issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Updated tradeline to reflect discharge and confirmed bureau suppression of balance.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1212",
+    "product": "Student loan",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Maya. Forbearance request submitted on 2025-01-21 was acknowledged then payments were still auto-debited. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Refunded auto-debit collected during approved forbearance and updated status.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1093",
+    "product": "Mortgage",
+    "issue": "Trouble during payment process",
+    "narrative": "My name is Avery. My mortgage payment of $480 was drafted twice in one month and customer service cannot locate the second payment. I have contacted support multiple times about this trouble during payment process issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reversed duplicate draft, refunded fees, and confirmed correct loan ledger balance.",
+    "company_response": "Closed with explanation",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1050",
+    "product": "Credit card or prepaid card",
+    "issue": "Fees or interest",
+    "narrative": "My name is Omar. A promotional balance transfer fee was disclosed as 3% but I was charged 5% on a $250 transfer. I have contacted support multiple times about this fees or interest issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Refunded excess transfer fee and updated offer terms in account disclosures.",
+    "company_response": "In progress",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1014",
+    "product": "Checking or savings account",
+    "issue": "Problem caused by your funds being low",
+    "narrative": "My name is Omar. Unauthorized ACH debits totaling $120 posted to my account. I disputed them but the provisional credit was reversed. I have contacted support multiple times about this problem caused by your funds being low issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Completed Reg E investigation, permanently credited validated unauthorized transactions.",
+    "company_response": "Closed with monetary relief",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1205",
+    "product": "Student loan",
+    "issue": "Dealing with your lender or servicer",
+    "narrative": "My name is Pat. Employer certification for public service loan forgiveness has been pending far beyond the stated timeline. I have contacted support multiple times about this dealing with your lender or servicer issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Expedited PSLF employer certification review and provided case reference number.",
+    "company_response": "Closed with monetary relief",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1251",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Improper use of your report",
+    "narrative": "My name is Jamie. I cannot generate my free annual report online after repeated identity verification failures. I have contacted support multiple times about this improper use of your report issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Completed manual identity verification and mailed secure report copy.",
+    "company_response": "Closed with explanation",
+    "state": "NY",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1149",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Fraud or scam",
+    "narrative": "My name is Noah. Cash pickup reference for $45 expired after the app showed successful funding. I have contacted support multiple times about this fraud or scam issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reissued pickup instructions and extended reference validity after confirming funds.",
+    "company_response": "Closed with monetary relief",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1225",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Chris. A collection account for $250 appears twice under two different creditor names for the same original debt. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Merged duplicate collection tradelines and issued updated report confirmation.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "CA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1094",
+    "product": "Mortgage",
+    "issue": "Struggling to pay mortgage",
+    "narrative": "My name is Quinn. I applied for loss mitigation on 2025-09-25 and have not received a complete decision package after multiple calls. I have contacted support multiple times about this struggling to pay mortgage issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Issued complete loss-mitigation decision with appeal rights and single point of contact.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1246",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Problem with a credit reporting company's investigation",
+    "narrative": "My name is Maya. I cannot generate my free annual report online after repeated identity verification failures. I have contacted support multiple times about this problem with a credit reporting company's investigation issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Completed manual identity verification and mailed secure report copy.",
+    "company_response": "In progress",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1035",
+    "product": "Checking or savings account",
+    "issue": "Closing an account",
+    "narrative": "My name is Omar. I requested account statements for the last 12 months and only received incomplete PDF files missing several months. I have contacted support multiple times about this closing an account issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Provided complete statement package and confirmed delivery through secure inbox.",
+    "company_response": "Closed with explanation",
+    "state": "WA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1111",
+    "product": "Debt collection",
+    "issue": "Communication tactics",
+    "narrative": "My name is Jamie. The agency threatened wage garnishment without providing a judgment or verification letter. I have contacted support multiple times about this communication tactics issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Provided validation package and withdrew premature legal-action language.",
+    "company_response": "Closed with monetary relief",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1199",
+    "product": "Student loan",
+    "issue": "Problem with a credit report or credit score",
+    "narrative": "My name is Jordan. Consolidation paperwork was lost and I was asked to re-send the same tax forms multiple times. I have contacted support multiple times about this problem with a credit report or credit score issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Completed consolidation with dedicated processor and confirmed new loan IDs.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1003",
+    "product": "Checking or savings account",
+    "issue": "Closing an account",
+    "narrative": "My name is Alex. The bank closed my savings account ending in 3811 and mailed a check weeks late, causing bill payment failures. I have contacted support multiple times about this closing an account issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reissued closing balance check via expedited mail and waived related service fees.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1138",
+    "product": "Debt collection",
+    "issue": "False statements or representation",
+    "narrative": "My name is Morgan. They reported a collection to the bureaus while an active dispute for identity theft is open. I have contacted support multiple times about this false statements or representation issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Suppressed bureau reporting until dispute investigation completed.",
+    "company_response": "In progress",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1074",
+    "product": "Mortgage",
+    "issue": "Struggling to pay mortgage",
+    "narrative": "My name is Alex. I applied for loss mitigation on 2025-07-16 and have not received a complete decision package after multiple calls. I have contacted support multiple times about this struggling to pay mortgage issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Issued complete loss-mitigation decision with appeal rights and single point of contact.",
+    "company_response": "Closed with monetary relief",
+    "state": "IL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1121",
+    "product": "Debt collection",
+    "issue": "Attempts to collect debt not owed",
+    "narrative": "My name is Casey. The agency threatened wage garnishment without providing a judgment or verification letter. I have contacted support multiple times about this attempts to collect debt not owed issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Provided validation package and withdrew premature legal-action language.",
+    "company_response": "Closed with monetary relief",
+    "state": "CA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1153",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Fraud or scam",
+    "narrative": "My name is Drew. Currency conversion on my international transfer used a rate that overcharged me by roughly $75. I have contacted support multiple times about this fraud or scam issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Refunded conversion discrepancy and documented rate source used at execution.",
+    "company_response": "In progress",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1127",
+    "product": "Debt collection",
+    "issue": "Communication tactics",
+    "narrative": "My name is Omar. Despite a written cease-communication request, I continue to get daily calls about $2400. I have contacted support multiple times about this communication tactics issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Honored cease-communication request and moved correspondence to mail only.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1073",
+    "product": "Mortgage",
+    "issue": "Trouble during payment process",
+    "narrative": "My name is Jordan. My mortgage payment of $750 was drafted twice in one month and customer service cannot locate the second payment. I have contacted support multiple times about this trouble during payment process issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reversed duplicate draft, refunded fees, and confirmed correct loan ledger balance.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1162",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Money was not available when promised",
+    "narrative": "My name is Cameron. I was scammed into authorizing a $480 transfer. I reported it immediately and need the investigation status. I have contacted support multiple times about this money was not available when promised issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Opened fraud case, froze related rails, and issued interim investigation update.",
+    "company_response": "Closed with explanation",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1189",
+    "product": "Student loan",
+    "issue": "Dealing with your lender or servicer",
+    "narrative": "My name is Elena. Consolidation paperwork was lost and I was asked to re-send the same tax forms multiple times. I have contacted support multiple times about this dealing with your lender or servicer issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Completed consolidation with dedicated processor and confirmed new loan IDs.",
+    "company_response": "In progress",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1091",
+    "product": "Mortgage",
+    "issue": "Applying for a mortgage or refinancing an existing mortgage",
+    "narrative": "My name is Drew. Refinance closing was delayed because the lender requested the same appraisal documents three times. I have contacted support multiple times about this applying for a mortgage or refinancing an existing mortgage issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Assigned dedicated closer, validated document checklist, and rescheduled closing.",
+    "company_response": "Closed with monetary relief",
+    "state": "CA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1150",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Money was not available when promised",
+    "narrative": "My name is Quinn. I sent $1250 via wire on 2025-02-22 to help a family emergency but the recipient never received funds. I have contacted support multiple times about this money was not available when promised issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Traced wire, confirmed beneficiary bank delay, and provided MT103 evidence to customer.",
+    "company_response": "In progress",
+    "state": "CA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1056",
+    "product": "Credit card or prepaid card",
+    "issue": "Advertising and marketing, including promotional offers",
+    "narrative": "My name is Jordan. I returned merchandise on 2025-10-09 and the credit never posted, leaving me paying interest on $480. I have contacted support multiple times about this advertising and marketing, including promotional offers issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Posted pending merchant credit and waived related interest for the dispute period.",
+    "company_response": "Closed with explanation",
+    "state": "GA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1250",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Problem with a credit reporting company's investigation",
+    "narrative": "My name is Jamie. A collection account for $750 appears twice under two different creditor names for the same original debt. I have contacted support multiple times about this problem with a credit reporting company's investigation issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Merged duplicate collection tradelines and issued updated report confirmation.",
+    "company_response": "Closed with explanation",
+    "state": "IL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1118",
+    "product": "Debt collection",
+    "issue": "False statements or representation",
+    "narrative": "My name is Drew. They reported a collection to the bureaus while an active dispute for identity theft is open. I have contacted support multiple times about this false statements or representation issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Suppressed bureau reporting until dispute investigation completed.",
+    "company_response": "Closed with explanation",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1130",
+    "product": "Debt collection",
+    "issue": "False statements or representation",
+    "narrative": "My name is Taylor. I received calls before 8am about a debt that does not match my credit report and may belong to someone else. I have contacted support multiple times about this false statements or representation issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Stopped outreach pending validation and corrected identity mismatch documentation.",
+    "company_response": "In progress",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1101",
+    "product": "Mortgage",
+    "issue": "Trouble during payment process",
+    "narrative": "My name is Riley. Refinance closing was delayed because the lender requested the same appraisal documents three times. I have contacted support multiple times about this trouble during payment process issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Assigned dedicated closer, validated document checklist, and rescheduled closing.",
+    "company_response": "In progress",
+    "state": "TX",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1024",
+    "product": "Checking or savings account",
+    "issue": "Unauthorized transactions",
+    "narrative": "My name is Pat. Unauthorized ACH debits totaling $250 posted to my account. I disputed them but the provisional credit was reversed. I have contacted support multiple times about this unauthorized transactions issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Completed Reg E investigation, permanently credited validated unauthorized transactions.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1006",
+    "product": "Checking or savings account",
+    "issue": "Problem caused by your funds being low",
+    "narrative": "My name is Morgan. I deposited a paycheck of $75 on 2025-06-20 but the funds still show as pending and I was charged overdraft fees. I have contacted support multiple times about this problem caused by your funds being low issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Refunded incorrect overdraft fees and restored provisional credit while investigation completed.",
+    "company_response": "Closed with explanation",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1174",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Money was not available when promised",
+    "narrative": "My name is Maya. Cash pickup reference for $5600 expired after the app showed successful funding. I have contacted support multiple times about this money was not available when promised issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reissued pickup instructions and extended reference validity after confirming funds.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1079",
+    "product": "Mortgage",
+    "issue": "Applying for a mortgage or refinancing an existing mortgage",
+    "narrative": "My name is Noah. I applied for loss mitigation on 2025-06-07 and have not received a complete decision package after multiple calls. I have contacted support multiple times about this applying for a mortgage or refinancing an existing mortgage issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Issued complete loss-mitigation decision with appeal rights and single point of contact.",
+    "company_response": "Closed with monetary relief",
+    "state": "WA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1221",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Luis. I cannot generate my free annual report online after repeated identity verification failures. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Completed manual identity verification and mailed secure report copy.",
+    "company_response": "Closed with monetary relief",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1196",
+    "product": "Student loan",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Sam. I enrolled in an income-driven repayment plan but my bill still shows the standard payment of $45. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Corrected IDR billing amount and issued payment history adjustment letter.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1201",
+    "product": "Student loan",
+    "issue": "Dealing with your lender or servicer",
+    "narrative": "My name is Jordan. I enrolled in an income-driven repayment plan but my bill still shows the standard payment of $1250. I have contacted support multiple times about this dealing with your lender or servicer issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Corrected IDR billing amount and issued payment history adjustment letter.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1237",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Elena. My credit report still shows a charged-off card that was included in bankruptcy discharged on 2025-06-13. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Updated tradeline to reflect discharge and confirmed bureau suppression of balance.",
+    "company_response": "Closed with explanation",
+    "state": "NY",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1183",
+    "product": "Student loan",
+    "issue": "Problem with a credit report or credit score",
+    "narrative": "My name is Alex. My servicer reports my student loan as delinquent even though payments posted on time. I have contacted support multiple times about this problem with a credit report or credit score issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Furnished corrected payment history to credit bureaus and confirmed tradeline update.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "IL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1049",
+    "product": "Credit card or prepaid card",
+    "issue": "Problem with a purchase shown on your statement",
+    "narrative": "My name is Jordan. My card was declined repeatedly while traveling even though my balance available was above $45. I have contacted support multiple times about this problem with a purchase shown on your statement issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Updated travel notes, replaced card, and confirmed authorization controls with customer.",
+    "company_response": "Closed with monetary relief",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1210",
+    "product": "Student loan",
+    "issue": "Struggling to repay your loan",
+    "narrative": "My name is Jamie. Employer certification for public service loan forgiveness has been pending far beyond the stated timeline. I have contacted support multiple times about this struggling to repay your loan issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Expedited PSLF employer certification review and provided case reference number.",
+    "company_response": "In progress",
+    "state": "FL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1247",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Improper use of your report",
+    "narrative": "My name is Sam. My credit report still shows a charged-off card that was included in bankruptcy discharged on 2025-06-21. I have contacted support multiple times about this improper use of your report issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Updated tradeline to reflect discharge and confirmed bureau suppression of balance.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1084",
+    "product": "Mortgage",
+    "issue": "Closing on a mortgage",
+    "narrative": "My name is Elena. I applied for loss mitigation on 2025-05-04 and have not received a complete decision package after multiple calls. I have contacted support multiple times about this closing on a mortgage issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Issued complete loss-mitigation decision with appeal rights and single point of contact.",
+    "company_response": "Closed with explanation",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1219",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Improper use of your report",
+    "narrative": "My name is Jordan. Personal information on my report lists an old address and an employer I never worked for. I have contacted support multiple times about this improper use of your report issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Corrected consumer informational fields after documentary proof review.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1192",
+    "product": "Student loan",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Riley. Forbearance request submitted on 2025-03-20 was acknowledged then payments were still auto-debited. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Refunded auto-debit collected during approved forbearance and updated status.",
+    "company_response": "Closed with explanation",
+    "state": "NY",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1108",
+    "product": "Mortgage",
+    "issue": "Closing on a mortgage",
+    "narrative": "My name is Maya. My mortgage payment of $1250 was drafted twice in one month and customer service cannot locate the second payment. I have contacted support multiple times about this closing on a mortgage issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reversed duplicate draft, refunded fees, and confirmed correct loan ledger balance.",
+    "company_response": "Closed with monetary relief",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1158",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Money was not available when promised",
+    "narrative": "My name is Riley. Currency conversion on my international transfer used a rate that overcharged me by roughly $45. I have contacted support multiple times about this money was not available when promised issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Refunded conversion discrepancy and documented rate source used at execution.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1099",
+    "product": "Mortgage",
+    "issue": "Applying for a mortgage or refinancing an existing mortgage",
+    "narrative": "My name is Avery. I applied for loss mitigation on 2025-05-04 and have not received a complete decision package after multiple calls. I have contacted support multiple times about this applying for a mortgage or refinancing an existing mortgage issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Issued complete loss-mitigation decision with appeal rights and single point of contact.",
+    "company_response": "Closed with monetary relief",
+    "state": "FL",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1233",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Jamie. I disputed an inquiry I did not authorize and the bureau responded without contacting the furnisher properly. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reopened dispute, re-verified with furnisher, and provided method-of-verification details.",
+    "company_response": "In progress",
+    "state": "GA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1013",
+    "product": "Checking or savings account",
+    "issue": "Managing an account",
+    "narrative": "My name is Drew. The bank closed my savings account ending in 3483 and mailed a check weeks late, causing bill payment failures. I have contacted support multiple times about this managing an account issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reissued closing balance check via expedited mail and waived related service fees.",
+    "company_response": "In progress",
+    "state": "NY",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1025",
+    "product": "Checking or savings account",
+    "issue": "Managing an account",
+    "narrative": "My name is Alex. I requested account statements for the last 12 months and only received incomplete PDF files missing several months. I have contacted support multiple times about this managing an account issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Provided complete statement package and confirmed delivery through secure inbox.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "FL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1211",
+    "product": "Student loan",
+    "issue": "Problem with a credit report or credit score",
+    "narrative": "My name is Drew. I enrolled in an income-driven repayment plan but my bill still shows the standard payment of $2400. I have contacted support multiple times about this problem with a credit report or credit score issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Corrected IDR billing amount and issued payment history adjustment letter.",
+    "company_response": "In progress",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1064",
+    "product": "Credit card or prepaid card",
+    "issue": "Advertising and marketing, including promotional offers",
+    "narrative": "My name is Jamie. My card was declined repeatedly while traveling even though my balance available was above $750. I have contacted support multiple times about this advertising and marketing, including promotional offers issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Updated travel notes, replaced card, and confirmed authorization controls with customer.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "FL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1116",
+    "product": "Debt collection",
+    "issue": "Took or threatened to take negative or legal action",
+    "narrative": "My name is Chris. The agency threatened wage garnishment without providing a judgment or verification letter. I have contacted support multiple times about this took or threatened to take negative or legal action issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Provided validation package and withdrew premature legal-action language.",
+    "company_response": "Closed with explanation",
+    "state": "NY",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1069",
+    "product": "Credit card or prepaid card",
+    "issue": "Problem with a purchase shown on your statement",
+    "narrative": "My name is Casey. My card was declined repeatedly while traveling even though my balance available was above $5600. I have contacted support multiple times about this problem with a purchase shown on your statement issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Updated travel notes, replaced card, and confirmed authorization controls with customer.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1032",
+    "product": "Checking or savings account",
+    "issue": "Unauthorized transactions",
+    "narrative": "My name is Quinn. My checking account was frozen without clear notice after I reported a disputed ATM withdrawal of $5600. I have contacted support multiple times about this unauthorized transactions issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Unfroze account after identity verification and documented hold reason in writing.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1120",
+    "product": "Debt collection",
+    "issue": "Took or threatened to take negative or legal action",
+    "narrative": "My name is Jamie. I received calls before 8am about a debt that does not match my credit report and may belong to someone else. I have contacted support multiple times about this took or threatened to take negative or legal action issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Stopped outreach pending validation and corrected identity mismatch documentation.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1062",
+    "product": "Credit card or prepaid card",
+    "issue": "Fees or interest",
+    "narrative": "My name is Elena. A merchant charge of $480 appears twice on my credit card ending in 3443. The merchant says they only billed once. I have contacted support multiple times about this fees or interest issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Removed duplicate merchant charge and issued billing correction letter.",
+    "company_response": "Closed with monetary relief",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1208",
+    "product": "Student loan",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Casey. My servicer reports my student loan as delinquent even though payments posted on time. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Furnished corrected payment history to credit bureaus and confirmed tradeline update.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NY",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1028",
+    "product": "Checking or savings account",
+    "issue": "Unauthorized transactions",
+    "narrative": "My name is Taylor. The bank closed my savings account ending in 6669 and mailed a check weeks late, causing bill payment failures. I have contacted support multiple times about this unauthorized transactions issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reissued closing balance check via expedited mail and waived related service fees.",
+    "company_response": "In progress",
+    "state": "WA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1144",
+    "product": "Debt collection",
+    "issue": "Took or threatened to take negative or legal action",
+    "narrative": "My name is Riley. A collector is demanding $250 for an account I already paid in full on 2025-11-25. They will not send validation. I have contacted support multiple times about this took or threatened to take negative or legal action issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Closed collection as paid/verified and sent zero-balance letter to customer and bureaus.",
+    "company_response": "Closed with explanation",
+    "state": "CA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1132",
+    "product": "Debt collection",
+    "issue": "Took or threatened to take negative or legal action",
+    "narrative": "My name is Drew. Despite a written cease-communication request, I continue to get daily calls about $480. I have contacted support multiple times about this took or threatened to take negative or legal action issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Honored cease-communication request and moved correspondence to mail only.",
+    "company_response": "Closed with explanation",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1095",
+    "product": "Mortgage",
+    "issue": "Applying for a mortgage or refinancing an existing mortgage",
+    "narrative": "My name is Drew. Escrow analysis increased my payment by $45 without explaining tax or insurance changes. I have contacted support multiple times about this applying for a mortgage or refinancing an existing mortgage issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Provided escrow analysis worksheet and adjusted payment after corrected tax data.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1195",
+    "product": "Student loan",
+    "issue": "Problem with a credit report or credit score",
+    "narrative": "My name is Jamie. Employer certification for public service loan forgiveness has been pending far beyond the stated timeline. I have contacted support multiple times about this problem with a credit report or credit score issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Expedited PSLF employer certification review and provided case reference number.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1034",
+    "product": "Checking or savings account",
+    "issue": "Problem caused by your funds being low",
+    "narrative": "My name is Omar. Unauthorized ACH debits totaling $480 posted to my account. I disputed them but the provisional credit was reversed. I have contacted support multiple times about this problem caused by your funds being low issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Completed Reg E investigation, permanently credited validated unauthorized transactions.",
+    "company_response": "In progress",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1103",
+    "product": "Mortgage",
+    "issue": "Applying for a mortgage or refinancing an existing mortgage",
+    "narrative": "My name is Maya. My mortgage payment of $2400 was drafted twice in one month and customer service cannot locate the second payment. I have contacted support multiple times about this applying for a mortgage or refinancing an existing mortgage issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reversed duplicate draft, refunded fees, and confirmed correct loan ledger balance.",
+    "company_response": "Closed with explanation",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1089",
+    "product": "Mortgage",
+    "issue": "Trouble during payment process",
+    "narrative": "My name is Omar. I applied for loss mitigation on 2025-10-26 and have not received a complete decision package after multiple calls. I have contacted support multiple times about this trouble during payment process issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Issued complete loss-mitigation decision with appeal rights and single point of contact.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1188",
+    "product": "Student loan",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Luis. My servicer reports my student loan as delinquent even though payments posted on time. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Furnished corrected payment history to credit bureaus and confirmed tradeline update.",
+    "company_response": "In progress",
+    "state": "WA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1082",
+    "product": "Mortgage",
+    "issue": "Struggling to pay mortgage",
+    "narrative": "My name is Quinn. I submitted a payoff quote request and received conflicting principal balances differing by $250. I have contacted support multiple times about this struggling to pay mortgage issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Issued corrected payoff quote and formal balance reconciliation letter.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1184",
+    "product": "Student loan",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Taylor. Consolidation paperwork was lost and I was asked to re-send the same tax forms multiple times. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Completed consolidation with dedicated processor and confirmed new loan IDs.",
+    "company_response": "Closed with explanation",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1081",
+    "product": "Mortgage",
+    "issue": "Trouble during payment process",
+    "narrative": "My name is Sam. Refinance closing was delayed because the lender requested the same appraisal documents three times. I have contacted support multiple times about this trouble during payment process issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Assigned dedicated closer, validated document checklist, and rescheduled closing.",
+    "company_response": "Closed with explanation",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1037",
+    "product": "Credit card or prepaid card",
+    "issue": "Problem with a purchase shown on your statement",
+    "narrative": "My name is Sam. A merchant charge of $75 appears twice on my credit card ending in 3044. The merchant says they only billed once. I have contacted support multiple times about this problem with a purchase shown on your statement issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Removed duplicate merchant charge and issued billing correction letter.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1156",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Wrong amount charged or received",
+    "narrative": "My name is Pat. A peer-to-peer transfer of $250 was marked complete then reversed 48 hours later without explanation. I have contacted support multiple times about this wrong amount charged or received issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Restored transfer after ledger reconciliation and clarified reversal reason in writing.",
+    "company_response": "Closed with monetary relief",
+    "state": "CA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1088",
+    "product": "Mortgage",
+    "issue": "Closing on a mortgage",
+    "narrative": "My name is Noah. My mortgage payment of $75 was drafted twice in one month and customer service cannot locate the second payment. I have contacted support multiple times about this closing on a mortgage issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Reversed duplicate draft, refunded fees, and confirmed correct loan ledger balance.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1053",
+    "product": "Credit card or prepaid card",
+    "issue": "Problem with a purchase shown on your statement",
+    "narrative": "My name is Jamie. I was promised 0% APR for 15 months but interest of $250 was assessed in month two. I have contacted support multiple times about this problem with a purchase shown on your statement issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reversed improperly assessed interest and corrected APR promotional coding.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "FL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1119",
+    "product": "Debt collection",
+    "issue": "Communication tactics",
+    "narrative": "My name is Luis. A collector is demanding $45 for an account I already paid in full on 2025-09-12. They will not send validation. I have contacted support multiple times about this communication tactics issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Closed collection as paid/verified and sent zero-balance letter to customer and bureaus.",
+    "company_response": "In progress",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1230",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Problem with a credit reporting company's investigation",
+    "narrative": "My name is Noah. A collection account for $750 appears twice under two different creditor names for the same original debt. I have contacted support multiple times about this problem with a credit reporting company's investigation issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Merged duplicate collection tradelines and issued updated report confirmation.",
+    "company_response": "In progress",
+    "state": "WA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1241",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Riley. I cannot generate my free annual report online after repeated identity verification failures. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Completed manual identity verification and mailed secure report copy.",
+    "company_response": "Closed with explanation",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1113",
+    "product": "Debt collection",
+    "issue": "Attempts to collect debt not owed",
+    "narrative": "My name is Luis. They reported a collection to the bureaus while an active dispute for identity theft is open. I have contacted support multiple times about this attempts to collect debt not owed issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Suppressed bureau reporting until dispute investigation completed.",
+    "company_response": "Closed with monetary relief",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1041",
+    "product": "Credit card or prepaid card",
+    "issue": "Problem with a purchase shown on your statement",
+    "narrative": "My name is Priya. I returned merchandise on 2025-09-07 and the credit never posted, leaving me paying interest on $75. I have contacted support multiple times about this problem with a purchase shown on your statement issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Posted pending merchant credit and waived related interest for the dispute period.",
+    "company_response": "Closed with monetary relief",
+    "state": "NY",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1016",
+    "product": "Checking or savings account",
+    "issue": "Unauthorized transactions",
+    "narrative": "My name is Cameron. I deposited a paycheck of $75 on 2025-11-06 but the funds still show as pending and I was charged overdraft fees. I have contacted support multiple times about this unauthorized transactions issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded incorrect overdraft fees and restored provisional credit while investigation completed.",
+    "company_response": "Closed with explanation",
+    "state": "GA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1177",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Fraud or scam",
+    "narrative": "My name is Casey. I was scammed into authorizing a $480 transfer. I reported it immediately and need the investigation status. I have contacted support multiple times about this fraud or scam issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Opened fraud case, froze related rails, and issued interim investigation update.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "GA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1019",
+    "product": "Checking or savings account",
+    "issue": "Closing an account",
+    "narrative": "My name is Taylor. Unauthorized ACH debits totaling $480 posted to my account. I disputed them but the provisional credit was reversed. I have contacted support multiple times about this closing an account issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Completed Reg E investigation, permanently credited validated unauthorized transactions.",
+    "company_response": "Closed with monetary relief",
+    "state": "FL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1117",
+    "product": "Debt collection",
+    "issue": "Attempts to collect debt not owed",
+    "narrative": "My name is Drew. Despite a written cease-communication request, I continue to get daily calls about $1250. I have contacted support multiple times about this attempts to collect debt not owed issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Honored cease-communication request and moved correspondence to mail only.",
+    "company_response": "Closed with explanation",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1077",
+    "product": "Mortgage",
+    "issue": "Trouble during payment process",
+    "narrative": "My name is Omar. I submitted a payoff quote request and received conflicting principal balances differing by $120. I have contacted support multiple times about this trouble during payment process issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Issued corrected payoff quote and formal balance reconciliation letter.",
+    "company_response": "Closed with explanation",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1104",
+    "product": "Mortgage",
+    "issue": "Closing on a mortgage",
+    "narrative": "My name is Quinn. I applied for loss mitigation on 2025-05-03 and have not received a complete decision package after multiple calls. I have contacted support multiple times about this closing on a mortgage issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Issued complete loss-mitigation decision with appeal rights and single point of contact.",
+    "company_response": "Closed with explanation",
+    "state": "GA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1176",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Wrong amount charged or received",
+    "narrative": "My name is Morgan. A peer-to-peer transfer of $5600 was marked complete then reversed 48 hours later without explanation. I have contacted support multiple times about this wrong amount charged or received issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Restored transfer after ledger reconciliation and clarified reversal reason in writing.",
+    "company_response": "Closed with explanation",
+    "state": "NY",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1236",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Unable to get your credit report or credit score",
+    "narrative": "My name is Noah. I cannot generate my free annual report online after repeated identity verification failures. I have contacted support multiple times about this unable to get your credit report or credit score issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Completed manual identity verification and mailed secure report copy.",
+    "company_response": "Closed with explanation",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1207",
+    "product": "Student loan",
+    "issue": "Problem with a credit report or credit score",
+    "narrative": "My name is Priya. Forbearance request submitted on 2025-09-27 was acknowledged then payments were still auto-debited. I have contacted support multiple times about this problem with a credit report or credit score issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Refunded auto-debit collected during approved forbearance and updated status.",
+    "company_response": "Closed with explanation",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1063",
+    "product": "Credit card or prepaid card",
+    "issue": "Trouble using your card",
+    "narrative": "My name is Casey. I was promised 0% APR for 15 months but interest of $2400 was assessed in month two. I have contacted support multiple times about this trouble using your card issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reversed improperly assessed interest and corrected APR promotional coding.",
+    "company_response": "Closed with explanation",
+    "state": "IL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1124",
+    "product": "Debt collection",
+    "issue": "Took or threatened to take negative or legal action",
+    "narrative": "My name is Riley. A collector is demanding $2400 for an account I already paid in full on 2025-08-18. They will not send validation. I have contacted support multiple times about this took or threatened to take negative or legal action issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Closed collection as paid/verified and sent zero-balance letter to customer and bureaus.",
+    "company_response": "In progress",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1078",
+    "product": "Mortgage",
+    "issue": "Struggling to pay mortgage",
+    "narrative": "My name is Riley. My mortgage payment of $45 was drafted twice in one month and customer service cannot locate the second payment. I have contacted support multiple times about this struggling to pay mortgage issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reversed duplicate draft, refunded fees, and confirmed correct loan ledger balance.",
+    "company_response": "In progress",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1249",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Incorrect information on your report",
+    "narrative": "My name is Riley. Personal information on my report lists an old address and an employer I never worked for. I have contacted support multiple times about this incorrect information on your report issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Corrected consumer informational fields after documentary proof review.",
+    "company_response": "Closed with monetary relief",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1075",
+    "product": "Mortgage",
+    "issue": "Applying for a mortgage or refinancing an existing mortgage",
+    "narrative": "My name is Omar. Escrow analysis increased my payment by $1250 without explaining tax or insurance changes. I have contacted support multiple times about this applying for a mortgage or refinancing an existing mortgage issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Provided escrow analysis worksheet and adjusted payment after corrected tax data.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1140",
+    "product": "Debt collection",
+    "issue": "Took or threatened to take negative or legal action",
+    "narrative": "My name is Cameron. I received calls before 8am about a debt that does not match my credit report and may belong to someone else. I have contacted support multiple times about this took or threatened to take negative or legal action issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Stopped outreach pending validation and corrected identity mismatch documentation.",
+    "company_response": "Closed with monetary relief",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1161",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Fraud or scam",
+    "narrative": "My name is Quinn. A peer-to-peer transfer of $45 was marked complete then reversed 48 hours later without explanation. I have contacted support multiple times about this fraud or scam issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Restored transfer after ledger reconciliation and clarified reversal reason in writing.",
+    "company_response": "Closed with monetary relief",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1228",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Unable to get your credit report or credit score",
+    "narrative": "My name is Omar. I disputed an inquiry I did not authorize and the bureau responded without contacting the furnisher properly. I have contacted support multiple times about this unable to get your credit report or credit score issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reopened dispute, re-verified with furnisher, and provided method-of-verification details.",
+    "company_response": "In progress",
+    "state": "IL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1128",
+    "product": "Debt collection",
+    "issue": "Took or threatened to take negative or legal action",
+    "narrative": "My name is Quinn. They reported a collection to the bureaus while an active dispute for identity theft is open. I have contacted support multiple times about this took or threatened to take negative or legal action issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Suppressed bureau reporting until dispute investigation completed.",
+    "company_response": "In progress",
+    "state": "CA",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1008",
+    "product": "Checking or savings account",
+    "issue": "Unauthorized transactions",
+    "narrative": "My name is Jamie. The bank closed my savings account ending in 0750 and mailed a check weeks late, causing bill payment failures. I have contacted support multiple times about this unauthorized transactions issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reissued closing balance check via expedited mail and waived related service fees.",
+    "company_response": "Closed with explanation",
+    "state": "FL",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1164",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Wrong amount charged or received",
+    "narrative": "My name is Alex. Cash pickup reference for $45 expired after the app showed successful funding. I have contacted support multiple times about this wrong amount charged or received issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reissued pickup instructions and extended reference validity after confirming funds.",
+    "company_response": "Closed with explanation",
+    "state": "NC",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1159",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Other transaction problem",
+    "narrative": "My name is Quinn. Cash pickup reference for $250 expired after the app showed successful funding. I have contacted support multiple times about this other transaction problem issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reissued pickup instructions and extended reference validity after confirming funds.",
+    "company_response": "Closed with monetary relief",
+    "state": "NY",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1107",
+    "product": "Mortgage",
+    "issue": "Applying for a mortgage or refinancing an existing mortgage",
+    "narrative": "My name is Omar. I submitted a payoff quote request and received conflicting principal balances differing by $75. I have contacted support multiple times about this applying for a mortgage or refinancing an existing mortgage issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Issued corrected payoff quote and formal balance reconciliation letter.",
+    "company_response": "Closed with explanation",
+    "state": "NY",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1147",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Other transaction problem",
+    "narrative": "My name is Chris. I was scammed into authorizing a $480 transfer. I reported it immediately and need the investigation status. I have contacted support multiple times about this other transaction problem issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Opened fraud case, froze related rails, and issued interim investigation update.",
+    "company_response": "Closed with explanation",
+    "state": "NC",
+    "consumer_disputed": "Yes"
+  },
+  {
+    "case_id": "CX-1197",
+    "product": "Student loan",
+    "issue": "Dealing with your lender or servicer",
+    "narrative": "My name is Elena. Forbearance request submitted on 2025-08-26 was acknowledged then payments were still auto-debited. I have contacted support multiple times about this dealing with your lender or servicer issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Refunded auto-debit collected during approved forbearance and updated status.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1054",
+    "product": "Credit card or prepaid card",
+    "issue": "Fees or interest",
+    "narrative": "My name is Sam. My card was declined repeatedly while traveling even though my balance available was above $250. I have contacted support multiple times about this fees or interest issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Updated travel notes, replaced card, and confirmed authorization controls with customer.",
+    "company_response": "Closed with monetary relief",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1167",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Other transaction problem",
+    "narrative": "My name is Luis. I was scammed into authorizing a $5600 transfer. I reported it immediately and need the investigation status. I have contacted support multiple times about this other transaction problem issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Opened fraud case, froze related rails, and issued interim investigation update.",
+    "company_response": "In progress",
+    "state": "TX",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1068",
+    "product": "Credit card or prepaid card",
+    "issue": "Advertising and marketing, including promotional offers",
+    "narrative": "My name is Noah. I was promised 0% APR for 15 months but interest of $250 was assessed in month two. I have contacted support multiple times about this advertising and marketing, including promotional offers issue and need a clear written resolution. Please investigate and respond with the next concrete steps.",
+    "resolution_summary": "Reversed improperly assessed interest and corrected APR promotional coding.",
+    "company_response": "Closed with monetary relief",
+    "state": "NC",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1148",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Wrong amount charged or received",
+    "narrative": "My name is Drew. Currency conversion on my international transfer used a rate that overcharged me by roughly $120. I have contacted support multiple times about this wrong amount charged or received issue and need a clear written resolution. This has caused stress and late fees on other bills.",
+    "resolution_summary": "Refunded conversion discrepancy and documented rate source used at execution.",
+    "company_response": "Closed with monetary relief",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1198",
+    "product": "Student loan",
+    "issue": "Struggling to repay your loan",
+    "narrative": "My name is Noah. My servicer reports my student loan as delinquent even though payments posted on time. I have contacted support multiple times about this struggling to repay your loan issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Furnished corrected payment history to credit bureaus and confirmed tradeline update.",
+    "company_response": "Closed with explanation",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1165",
+    "product": "Money transfer, virtual currency, or money service",
+    "issue": "Fraud or scam",
+    "narrative": "My name is Noah. I sent $1250 via wire on 2025-08-23 to help a family emergency but the recipient never received funds. I have contacted support multiple times about this fraud or scam issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Traced wire, confirmed beneficiary bank delay, and provided MT103 evidence to customer.",
+    "company_response": "Closed with explanation",
+    "state": "TX",
+    "consumer_disputed": "No"
+  },
+  {
+    "case_id": "CX-1243",
+    "product": "Credit reporting, credit repair services, or other personal consumer reports",
+    "issue": "Improper use of your report",
+    "narrative": "My name is Casey. I disputed an inquiry I did not authorize and the bureau responded without contacting the furnisher properly. I have contacted support multiple times about this improper use of your report issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Reopened dispute, re-verified with furnisher, and provided method-of-verification details.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "WA",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1012",
+    "product": "Checking or savings account",
+    "issue": "Unauthorized transactions",
+    "narrative": "My name is Morgan. My checking account was frozen without clear notice after I reported a disputed ATM withdrawal of $250. I have contacted support multiple times about this unauthorized transactions issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Unfroze account after identity verification and documented hold reason in writing.",
+    "company_response": "Closed with explanation",
+    "state": "FL",
+    "consumer_disputed": "N/A"
+  },
+  {
+    "case_id": "CX-1021",
+    "product": "Checking or savings account",
+    "issue": "Managing an account",
+    "narrative": "My name is Jamie. I deposited a paycheck of $45 on 2025-06-27 but the funds still show as pending and I was charged overdraft fees. I have contacted support multiple times about this managing an account issue and need a clear written resolution. I can provide statements and reference numbers upon request.",
+    "resolution_summary": "Refunded incorrect overdraft fees and restored provisional credit while investigation completed.",
+    "company_response": "Closed with non-monetary relief",
+    "state": "CA",
+    "consumer_disputed": "Yes"
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "weighted_f1": 1.0,
+  "n_samples": 252,
+  "n_train": 201,
+  "n_test": 51,
+  "products": [
+    "Checking or savings account",
+    "Credit card or prepaid card",
+    "Credit reporting, credit repair services, or other personal consumer reports",
+    "Debt collection",
+    "Money transfer, virtual currency, or money service",
+    "Mortgage",
+    "Student loan"
+  ],
+  "classification_report": {
+    "Checking or savings account": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "Credit card or prepaid card": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "Credit reporting, credit repair services, or other personal consumer reports": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "Debt collection": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "Money transfer, virtual currency, or money service": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "Mortgage": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "Student loan": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 51.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 51.0
+    }
+  },
+  "vectorizer": {
+    "max_features": 8000,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "vocabulary_size": 1178
+  }
+}

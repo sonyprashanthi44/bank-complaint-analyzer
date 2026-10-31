@@ -1,0 +1,36 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Env / secrets
+.env
+.env.local
+**/.env
+!**/.env.example
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vercel/
+
+# Local notes / private writeups (keep on machine, not GitHub)
+docs/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Local docker volumes noise
+pgdata/

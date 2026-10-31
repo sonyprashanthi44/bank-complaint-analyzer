@@ -1,0 +1,23 @@
+# Render Blueprint: free-tier friendly API deploy
+# Dashboard: New → Blueprint → connect this GitHub repo
+# Docs: https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: bank-complaint-analyzer-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: LLM_PROVIDER
+        value: auto
+      - key: CORS_ORIGINS
+        # Replace with your real Vercel URL after UI deploy
+        value: https://localhost
+      - key: GROQ_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      # Leave DATABASE_URL unset on free tier → local TF-IDF retrieval
